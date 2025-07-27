@@ -1,1 +1,28 @@
-[]
+[
+  {
+    "id": 1,
+    "status": true,
+    "thumbnails": [
+      "img/camisa2.jpg"
+    ],
+    "title": "Camisa manga larga",
+    "description": "Camisa de algodón color celeste",
+    "code": "CAM002",
+    "price": 10500,
+    "stock": 25,
+    "category": "ropa"
+  },
+  {
+    "id": 2,
+    "status": true,
+    "thumbnails": [
+      "img/camisa8.jpg"
+    ],
+    "title": "Camisa manga corta",
+    "description": "Camisa poliester negra",
+    "code": "CAM0",
+    "price": 10500,
+    "stock": 10,
+    "category": "ropa"
+  }
+]
